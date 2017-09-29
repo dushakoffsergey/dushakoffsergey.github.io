@@ -16,6 +16,8 @@
 
 [7 урок](https://dushakoffsergey.github.io/урок%207/ )- Верстка первого макета
 
+[8 урок](https://dushakoffsergey.github.io/урок%208/advantage.html )- Ускорение верстки в разы
+
 
 
 
