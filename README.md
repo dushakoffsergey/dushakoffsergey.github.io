@@ -8,5 +8,17 @@
 
 [4 урок](https://codepen.io/SERGEY34/pen/boexKq)- Знакомство с основами HTML .
 
-[5 урок](https://codepen.io/SERGEY34/pen/WZGNBv)-Знакомство с основами CSS
+[5 урок](https://codepen.io/SERGEY34/pen/WZGNBv)-Знакомство с основами CSS.
+
+[6.1 урок](https://codepen.io/SERGEY34/pen/YrpqmN "Шапка")- Позиционирование CSS(шапка).
+
+[6.2 урок](https://codepen.io/SERGEY34/pen/jGVrNe "Центрирование")- Позиционирование CSS(Центрирование).
+
+[7 урок](https://codepen.io/SERGEY34/pen/jGVrNe "Центрирование")- Позиционирование CSS(Центрирование).
+
+
+
+
+
+
  
