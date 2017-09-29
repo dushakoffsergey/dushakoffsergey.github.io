@@ -14,7 +14,7 @@
 
 [6.2 урок](https://codepen.io/SERGEY34/pen/jGVrNe "Центрирование")- Позиционирование CSS(Центрирование).
 
-[7 урок](https://codepen.io/SERGEY34/pen/jGVrNe "Центрирование")- Позиционирование CSS(Центрирование).
+[7 урок](https://dushakoffsergey.github.io/урок%207/ )- Верстка первого макета
 
 
 
