@@ -6,5 +6,7 @@
 
 [3 урок](https://github.com/dushakoffsergey/dushakoffsergey.github.io/tree/master/3%20урок)- Настройка рабочего пространства.
 
-[4 урок](https://codepen.io/SERGEY34/pen/boexKq)- Настройка рабочего пространства.
+[4 урок](https://codepen.io/SERGEY34/pen/boexKq)- Знакомство с основами HTML .
+
+[5 урок](https://codepen.io/SERGEY34/pen/WZGNBv)-Знакомство с основами CSS
  
